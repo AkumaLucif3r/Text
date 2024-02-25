@@ -1,0 +1,734 @@
+Recent years have seen the emergence of new critics of modern science who
+have been described, and often describe themselves, as postmodernists,
+multiculturalists, or cultural pluralists.1 Their attacks on modern science
+emanate from a number of different academic disciplines, including ecol-
+ogy, medicine, history, politics, sociology, and even literary criticism. These
+critics reject the commonly held view that current science is a culture-neutral
+enterprise of universal and cosmopolitan reach and the common heritage of
+humanity, despite its historical genesis within the geographical confines of
+Europe. Instead they maintain that the knowledge offered by modern sci-
+ence cannot be treated as universal, but has to be seen as inescapably rooted
+in the cultural singularities of the West. It leads them to demand greater
+recognition for the large reservoirs of indigenous knowledge carried by non-
+Western cultures and reject as hegemonic and imperialistic the exclusive
+claims made for modern science.2 Their stance is vehemently rejected by
+modernists, who view any accommodation with traditional knowledge as
+embracing archaic, mythical, superstitious, and irrational systems of
+thought that would return us to the medieval “Dark Ages” that preceded
+Enlightenment science.3 The resultant ferocity and intensity of the debates
+generated has led observers to describe them as the “science wars.”4
+Yet there is a shared Eurocentric presumption that underlies, and
+undermines, both sides in these debates—namely, that the historical roots
+of modern science must lie exclusively in Europe simply because modern
+science developed in Europe. This is wrong. The roots of modern science
+are “dialogical”—that is, the result of a long-running dialogue between ideas
+that came to Europe from a wide diversity of cultures through complex
+historical and geographical routes.5 More particularly we will find that the
+pivotal episode in the rise of modern science, the Copernican Revolution,
+A. Bala, The Dialogue of Civilizations in the Birth of Modern Science
+© Arun Bala 2006
+was profoundly influenced by Arabic,6 Chinese, Indian, and ancient
+Egyptian ideas and discoveries that came together in Europe over a few cen-
+turies. Such multicultural contributions not only made possible the narrow
+Copernican Revolution that led to acceptance of the heliocentric theory,
+but also the wider Copernican Revolution that led, through Galileo and
+Kepler, to Newton’s unification of cosmological and physical theory.
+Today there is wide recognition of the global interactions that created our
+contemporary social, political, and economic systems as Europe, through its
+colonizing enterprise, drew on the resources and products of a wide diversity
+of cultures to bind them as parts of a single world system.7 Modern science
+should also be seen as a product of this same global interaction, as Europe
+drew on the intellectual resources of the cultures it encountered by both
+dominating and learning from them.8 The voyages of geographical discovery
+that put Europeans in contact with many other cultures must also be seen as
+voyages of intellectual discovery that allowed Europeans to acquire and
+exploit the knowledge of these cultures. Modern science is the outcome of a
+dialogue within the West that drew on ideas and discoveries from many
+civilizations—something that neither modernist nor postmodernist con-
+ceptions of the rise of the new science acknowledge adequately.9
+It may be feared that the originality and creativity of the West in forging
+modern science is diminished when it is traced to a dialogue with ideas
+drawn from other civilizations. But modern science was not simply the
+result of a passive accumulation of ideas and practices from non-Western
+traditions of thought. Rather, it was the outcome of a process of integrating
+seminal discoveries from many cultures and combining them within Europe
+into a new synthesis not achieved elsewhere. The Copernican Revolution be-
+came a turning point for precisely such a multicultural synthesis because its
+key heliocentric idea—born in ancient Europe with Aristarchus and resur-
+rected in modern Europe by Copernicus—could only be consolidated by
+drawing on the philosophical, mathematical, scientific, and technological
+discoveries of many civilizations.
+This has important implications for how we view the so-called science
+wars. We cannot go along with either modernists or postmodernists when
+they separate the West from the Rest in their discussions of the birth of
+modern science. We cannot agree with the way both treat modern science
+as something historically and cognitively alien to the traditional sciences—
+with zealously “antitraditional” modernists on one side, and radically “pro-
+traditional” postmodernists on the other. Contrary to what both assume,
+the science wars are not between traditions of science historically and intel-
+lectually disconnected from one another. If modern science has emerged
+through dialogue with non-Western traditions and has grown by drawing
+upon their resources, then we have to recognize that the Rest have crucially
+2 THE DIALOGUE OF CIVILIZATIONS
+penetrated the West. The tradition of modern science, generally perceived
+as alien to non-Western traditional sciences, already incorporates a great
+deal of this indigenous knowledge. Since modern science has its genealogy
+in the histories of both the West and the Rest, we should no longer use it
+to sharply sunder the intellectual history of the West from the Rest.
+This raises an important question: What is the significance of contem-
+porary, postmodern, tradition-inspired critiques of modern science if they
+are really confronting a hybrid bred in part from traditional knowledge?
+The postmodern traditionalists can hardly afford to reject outright every part
+of modern science, since in so doing they would be rejecting elements of
+their own tradition.10 Instead, these critiques are better interpreted, whatever
+the intent may be of those who make them, as drawing attention to valuable
+knowledge and insights within the traditional sciences currently ignored or
+rejected by modern science. They suggest that by making modern scientists
+open a new dialogue with traditional knowledge holders, we could fruitfully
+promote the growth of science in the future as dialogue did in the past.11
+There is also a broader cultural advantage in nurturing a deeper appre-
+ciation of the dialogical roots of modern science. An understanding of the
+way scientific knowledge advanced through the interaction of ideas drawn
+from different cultures would subvert attempts to use history either to
+promote the hegemony of one single culture or to make the existence of
+diverse cultures an excuse for confrontation and conflict. Both these ori-
+entations have been promoted recently by adopting a type of historical
+inquiry, by no means new, that studies the past with a view to predicting
+the future—or rather constructs a narrative of the past that could become
+a self-fulfilling prophecy for the future.
+One such hegemonic narrative is the work of the political theorist Francis
+Fukuyama, who sees the termination of the ideological conflict between
+socialism and liberal capitalism as heralding “the end of history.” He argues
+that cultures that adopt modern science, with the technology and economic
+system associated with it, will inevitably dominate the future course of history.
+In turn, they will force the rest of the world to follow the same path. For
+Fukuyama, modern science is the logic of modernity and the directing force
+of history. Criticizing those who deny progressiveness in history, he writes:
+We have selected modern natural science as a possible underlying “mech-
+anism” of directional historical change, because it is the only large scale
+social activity that is by consensus cumulative and therefore directional.
+(Fukuyama 1992, p. 80)
+Thus, Fukuyama is a modernist with a vision of global civilization as ulti-
+mately driven by the inexorable force of modern science—an enterprise
+INTRODUCTION 3
+invented only once in Europe but impossible to resist elsewhere. He reco-
+gnizes no possibility for multicultural reservoirs of knowledge to advance
+future science—the end of history is the end of traditional science. 12
+In contrast to Fukuyama’s vision of the coming convergence of cultures,
+the political theorist Samuel Huntington presents a future of cultures in
+collision. Huntington sees the end of the Cold War as leading away from
+a bipolar world, in which the conflict between liberal capitalism and
+socialism dominated the world stage, to a multipolar world in which “the
+clash of civilizations” becomes paramount. According to him the clash is
+rooted in the radically different values that motivate civilizations—in par-
+ticular their religion-inspired political, social, and moral orientations
+(Huntington 1996). 13
+Even though Fukuyama and Huntington do not address the concerns
+of the science wars directly, what they say about civilizational interactions
+can also be read as applying to the interaction of civilizational sciences.
+This links their concerns directly to those that motivate the science wars.
+Fukuyama’s view that science drives the directionality of history, and that
+history will end with the triumph of liberal capitalism, parallels the com-
+monly held opinion that modern science lies at the end of history and will
+displace all previous traditions of natural knowledge. It is hardly likely that
+Fukuyama would disagree with this; his view of science does not even
+entertain the notion of alternative cognitive traditions. If it did, his claim
+that we have come to the “end of history” by producing the way of life
+inevitably linked to modern science would be weaker. A new cycle of his-
+tory would begin if current science gave way to another tradition of knowl-
+edge and a different way of life.
+Huntington’s clash of civilizations can also be seen, by extension, as a
+clash of civilizational sciences. According to the social scientist Ziauddin
+Sardar, the clash between civilizational traditions of science is the deepest
+dimension of the science wars, but is often ignored by those who see it only
+as a clash of Western traditions—either Romantic versus Enlightenment,
+or postmodern versus modern. For Sardar, the civilizational sciences
+conflict began with the dawn of modern science but has hardly been
+acknowledged explicitly—he terms it “the invisible science wars” (Sardar
+2001, p. 120). Nevertheless, Sardar seems to suggest that this clandestine
+war is now becoming more visible as critics of modern science—environ-
+mentalists, feminists, multiculturalists—increasingly turn to non-Western
+reservoirs of traditional knowledge to overcome the limitations they
+perceive modern science to have.
+The patterns for civilizational interaction provided by Huntington and
+Fukuyama do not allow for a mutually fruitful dialogue between different
+civilizations—and they suggest that this is also true of science. However, if
+4 THE DIALOGUE OF CIVILIZATIONS
+it can be shown that modern Western science profited from its dialogue
+with non-Western traditions of science, then it would be possible to sug-
+gest that the relations between civilizations need not always be adversarial
+and confrontational. Civilizations could teach and learn from one another
+in ways that are mutually beneficial.
+Thus, the answer we give to what has been called Needham’s Grand
+Question, “Why did modern science develop in Europe and not else-
+where?”14
+—because of a dialogue with other civilizational ideas or because
+Europe managed to shield itself from the religious, social, cultural, and geo-
+graphical factors that kept other civilizations chained to superstition, myth,
+and error—will crucially influence our perception of intercivilizational
+relations.15 Moreover, the question itself can be divided into two parts:
+“Why did modern science develop in Europe?” and “Why did modern
+science fail to develop in civilization X?” where civilization X can stand for
+Chinese civilization, Arabic civilization, Indian civilization, and so on.
+Answering both parts of the question has often provided an opportunity for
+Eurocentric historians to find praiseworthy qualities within European lan-
+guages, religions, and geography, or within European political, economic,
+and social institutions that facilitated the birth and growth of modern sci-
+ence, and blameworthy qualities within their non-European counterparts
+that obstructed it. A dialogical history of modern science would require us
+to reject such one-sided explanations and suggest that praise and blame need
+to be assigned more evenhandedly. Traditional cultures deserve praise for
+making discoveries that contributed to modern science, even if they are
+assumed to deserve blame for failing to reach modern science. Western cul-
+ture deserves blame for ignoring not only discoveries in traditional cultures
+that became a part of science, but also traditional discoveries that continue
+to be ignored by modern science, even if it deserves praise for creating mod-
+ern science. Let us look now look at some attempts to answer the question,
+Why did modern science not develop in civilization X?, without addressing
+directly for the moment the question of why modern science did develop in
+Europe.
+
+The question, Why did modern science not develop in civilization X? is gen-
+erally entertained seriously only with regard to civilizations like the Arabic,
+Chinese, and Indian, which in other respects—religion, the arts, and litera-
+ture and, to an extent, philosophy—are considered to have progressed and
+achieved as much as the West.1 It does not occur to anyone to ask, say, Why
+did Christianity not develop in China, or Renaissance representational art
+in India? In religion and the arts we do not expect culture-neutral construc-
+tions. But since the same science is taught everywhere, and scientific knowl-
+edge is perceived as universal and cosmopolitan, it seems to make sense to
+ask why it failed to develop in a particular civilization. Behind the question,
+therefore, lies the assumption that modern science is the only science possi-
+ble and could only have developed in the way it did. Thus it seems reason-
+able to inquire why it failed to develop in civilizations outside Europe that,
+in most other respects, were at least as advanced as Europe at the time of its
+birth. Behind the question often lies the unspoken presumption that mod-
+ern science did not develop through a dialogue with non-Western traditions
+of science. Were it acknowledged that such dialogue contributed to both the
+birth and growth of modern science, and that contemporary science grew by
+standing on the shoulders of earlier non-European traditions, the question
+would seem pointless. For example, the question of why modern science
+did not develop in ancient Greece is rarely asked since it is already seen as
+building on the accomplishments of Greek science.2
+Moreover, the question would not be asked if modern science were treated
+as only one local tradition of knowledge among others, without imputing to
+it any cosmopolitan or universal status. Then there would seem little motive
+A. Bala, The Dialogue of Civilizations in the Birth of Modern Science
+© Arun Bala 2006
+to ask why Western science did not develop in China as to ask why Western
+art did not. It is only because modern science is considered universal that it
+appears pressing to inquire why it developed in the West and not elsewhere.
+Linked to the notion that modern science is universal is the assumption
+that it has finally displaced all other traditions of science. Future scientists
+have no choice but to work with, and within, this tradition of science.
+Such a conclusion is often associated with the Eurocentric historical as-
+sumption that modern science had no contributions from non-Western
+cultures, so that future scientists have no choice but to become
+Westernized in order to practice science. We might assume that such
+claims are no longer explicitly advanced by scientists; that they have be-
+come receptive to the possibility that non-Western cultures may contain
+ideas that could potentially subvert modern science even if they have not
+done so yet. Unfortunately, such comforting complacency would be mis-
+placed. In their influential study Higher Superstition: The Academic Left and
+Its Quarrels with Science, Gross and Levitt fall prey to Eurocentric preju-
+dices in their otherwise cogent criticism of the extreme relativist views too
+often taken by postmodern multiculturalists. They write:
+Science, as the term is now understood is, moreover, uniquely associated
+with Western culture. It arose only once, an invention that is unlikely to be
+repeated in detail no matter how many other cultures and peoples even-
+tually come to produce fine scientists. In a hundred years, the greatest
+theoretical physicist in the world may well be Maori or Xhosa by descent;
+he—or she, as may well be the case—will nonetheless be a Westerner in the
+most important aspect of his or her intellectual temperament. The argu-
+ment may be made pace Steiner, that even Mozart is outdone by the
+polyrhythmic splendors of the Javanese gamelan or by the sonorities of
+Indian classical music. No such possibility exists for the multiculturist chal-
+lenging the intellectual hegemony of Western science, aside from pure
+falsification. (Gross and Levitt 1994, pp. 219–220) 3
+Once we assume that there can be only one possible tradition of sci-
+ence, that this science was discovered in Europe, and that any other cul-
+ture X should have been able to discover it given proper conditions—the
+conditions that obtained within Europe at the time it developed there—it
+seems reasonable to go on to inquire why science did not develop in a par-
+ticular civilization X. The answer to this question has typically followed
+one of two routes: either an explanation in terms of a cultural lack in X or
+one of a cultural obstacle within X. Explanations in terms of cultural lack
+appeal to a series of absences in X—the lack of the Christian religion, the
+Greek heritage of philosophy, the Roman concept of law, a plural polity of
+competing states (as in medieval Europe), an incipient capitalist merchant
+8 T HE DIALOGUE OF CIVILIZATIONS
+class, and so on. The absence in other cultures of factors present in Europe
+is made to account for the failure of science to arise in these cultures. 4
+Explanations that appeal to the absence of facilitating factors within civ-
+ilization X are often complemented by appeal to the presence of intrinsic
+inhibiting factors—social, cultural, and institutional—that hindered the
+emergence of science. Religious dogmatism, overly pragmatic philosophies
+lacking theoretical interests, despotic rulers, and centralized kingdoms that
+hindered plural discourse are all invoked to explain the failure of modern
+science to emerge in culture X, despite the fact that similar factors arguably
+prevailed within Europe at the dawn of the Scientific Revolution.5 The
+effect of such studies is to interpret culture X solely in terms of absences
+and presences within it that failed to provide the environment to nourish
+scientific ideas even had they happened to emerge in incipient form.
+To see how the systematic use of such an approach can distort our un-
+derstanding of both traditional sciences and their contribution to modern
+science, let us examine closely one major study of multicultural traditions of
+science—The Cambridge Illustrated History of the World’s Science by historian
+Colin Ronan.6 With his specialized expertise in Chinese science, as well as
+his interest in the Arabic, Indian, Egyptian, and Mesopotamian civilizations,
+Ronan is more sympathetic than most to premodern traditions of science.
+He is also one of the few historians in modern times to have looked at tra-
+ditions of science across many different cultures from one comprehensive
+point of view. To find a parallel we have to go back to al-Andalusi’s Book of
+the Categories of Nations, in eleventh century Spain, which compared
+Egyptian, Greek, Arabic, Indian, Chinese, and other scientific traditions be-
+fore the birth of modern science. A more recent study edited by Helaine
+Selin, the Encyclopedia of the History of Science, Technology and Medicine in
+Non-Western Cultures, is a collection of articles by many authors, and as such
+it does not provide a unified perspective across civilizations. Ronan’s study is
+thus a unique contemporary attempt to look at the global traditions of
+science and evaluate their contributions. Yet, despite his rich and erudite
+accounts of non-Western traditions of science, Ronan continues to be obses-
+sed with the presumed cultural deficiencies and obstacles that he thinks
+precluded the emergence of modern science in these civilizations.
+Consider Ronan’s historical account of Chinese science. At the end of
+his long discussion of the role of the state bureaucracy in science, Ronan
+proceeds to answer the question, Why did modern science not develop in
+China? as follows:
+[D]espite the fact that in so many fields Chinese science reached at a very
+early date a level of knowledge equal or superior to that of Europe in 1500,
+there was no “scientific revolution” in China: the breakthrough into the era
+WHY DID MODERN SCIENCE NOT DEVELOP IN CIVILIZATION X? 9
+of powerful modern science occurred in Europe not in the East. Why
+should this have been? It is plainly impossible to give a categorical answer to
+such a question, but it may in part be connected with this same close asso-
+ciation of science and the State bureaucracy. In China, the urgent impulse
+to exploration, to new discovery for its own sake never developed as it did
+in Renaissance Europe, and there was no aspiration to break the mould of
+existing orthodoxies as inspired men such as Galileo. And one of the reasons
+for that must lie with the prevalence of the efficient but traditional bureau-
+cracy of China, its rules and outlook defined by Confucius many centuries
+before. (Ronan 1983, p.186)
+Ronan points to a variety of internal causes to explain the failure of the
+Chinese to create modern science—the obstacles set by the state bureau-
+cracy, the peculiar lack of curiosity in Chinese culture, the incapacity of
+the Chinese to value knowledge for its own sake, the conservative nature
+of Chinese traditions, and the obstacles placed by Confucian thought.
+Thus Ronan’s list includes Chinese politics, psychology, society, tradition,
+and philosophy as impediments in the way of science. This can even be in-
+terpreted as a sweeping indictment of Chinese civilization as a whole dur-
+ing its period of greatest development—from the Han dynasty beginning
+in 206 BCE, which made Confucianism the state ideology, to the year
+1500—precisely the time during which Chinese advances in science and
+technology continually outstripped those of Europe. Even during the Han
+era, which lasted until 220 CE, the Chinese made major strides in science
+and technology: the compass, paper, and the seismograph were all invented
+in this period. By 1500 the Chinese had added the mechanical clock,
+printing, and gunpowder to the list, to name only a few seminal discover-
+ies. Surely these achievements cannot be the outcome of a culture pro-
+foundly antithetical to scientific achievement in the psychological, social,
+political, and cultural spheres.
+Let us look more closely at Ronan’s charge that the bureaucracy inhib-
+ited Chinese science. This fails to explain why modern science emerged in
+Europe precisely in those areas that developed an efficient state bureaucracy
+comparable in many respects to that of China—including Britain, France,
+and Holland during the age of the Enlightenment, when modern science
+was in its formative phase. Equally unconvincing is his claim that the
+Chinese never developed the impulse to pursue exploration and discovery
+for their own sake when Confucius himself, as well as neo-Confucian
+thinkers, repeatedly emphasized the importance of cultivating knowledge
+through the investigation of things. It is precisely this emphasis on the
+investigation of things that explains the vast strides made by Chinese science
+from the Han to the early modern era under Confucian bureaucracy. But
+Ronan’s account requires us to believe that Chinese civilization eminently
+10 THE DIALOGUE OF CIVILIZATIONS
+advanced scientific knowledge over 1,700 years in spite of an indifference to
+knowledge for its own sake and a Confucian aversion to innovation. Ronan’s
+claim appears even more dubious when we consider that the Chinese not
+only developed a catalogue to record the progress of their inventions but also
+erected statues to commemorate those who made these discoveries.
+Even though Ronan deprecates the capacity of Chinese culture to sus-
+tain science, he is nevertheless a largely sympathetic exponent of the his-
+tory of Chinese scientific achievements. Much more censorious is the
+sinologist Derek Bodde. Bodde argues that Chinese science was no more
+than a pseudoscience, which remarkably did not obstruct technological
+progress despite its metaphysical, methodological, and theoretical short-
+comings. Bodde blames the failure of the Chinese to develop modern sci-
+ence on a large catalogue of factors—the form of written Chinese, the nature
+of Chinese religion, the role of government and society, the structure of
+Chinese morals and values, and the way human–nature relations were
+defined in China. Although he writes that his mission is “to determine, as
+best as we can, what may have been the factors in Chinese civilization that
+either favored or hindered scientific and technological progress,” his con-
+clusions focus on obstacles rather than facilitating factors because he does
+not believe there was anything like a Chinese science (Bodde 1991, p. 4). 7
+It would be unfair to charge Ronan and Bodde with constructing dis-
+courses that Edward Said characterized as projecting “orientalist structures
+of attitude and reference” deliberately connived to define and subjugate,
+control and marginalize, non-European cultures and people (Said 1994). 8
+They are too sympathetic to the wider Chinese cultural tradition to be
+suspected of such nefarious designs. Nevertheless, their drive to identify
+deficiencies and obstacles in a cultural tradition that both hold in high
+regard—precisely at the moment they attempt to account for the Chinese
+failure to develop modern science—demands explanation. The answer lies
+in their presupposition that modern science constitutes the only possible
+universal and cosmopolitan tradition of science. Although the Chinese
+were in a position to discover this tradition, given their technological
+advantage over Europe for millennia, they did not. It therefore seems rea-
+sonable to infer that powerful cultural factors within China must have
+obstructed an otherwise natural development. If we assume that the dis-
+covery of modern science is a desirable achievement—something most of
+us might not be prepared to deny—these factors can easily be interpreted
+as shortcomings of Chinese civilization.9
+Yet, had Ronan and Bodde, following Needham, seen Chinese science
+as making indispensable contributions to the development of modern sci-
+ence, and even serving as a necessary step toward it, they would not have
+viewed Chinese culture so negatively. Needham took Chinese science to be
+WHY DID MODERN SCIENCE NOT DEVELOP IN CIVILIZATION X? 11
+a protoscience that made important contributions to modern science.
+His dialogical orientation led him to examine positive factors, such as the
+Taoist organic materialist orientation to nature, which motivated Chinese
+discoveries in science and technology. Moreover, observing that Chinese
+organic materialist metaphysics is more concordant with the discoveries
+of quantum physics than seventeenth-century mechanical philosophy,
+Needham also thought it possible that future science might come closer to
+the Chinese view of nature. This suggests that Needham does not take the
+classical tradition of science to be the final word in science. Consequently,
+he is not led, like Ronan and Bodde, to develop disparaging explanations
+for the failure of the Chinese to develop universal science. 10
+Let us now examine Ronan’s assessment of the Indian tradition of
+science and his judgment on why Indian civilization never developed
+modern science. He writes:
+In the period before the Scientific Revolution, Hindu science made a num-
+ber of original contributions that were to be importantly developed in
+China, in Islam or in Europe. Nevertheless, perhaps because of the pre-
+vailing religious tone of the Indian civilization, it never developed into a
+full-fledged science, and over the past 200 years science in the Indian sub-
+continent has had a primarily Western flavor. (Ronan 1983, p. 196)
+Unlike China, where the Confucian bureaucracy is faulted for the failure
+to achieve modern science, the blame here is attributed to Indian religious
+culture. In the process Ronan ignores many ideas derived from India that
+he himself avows, in his historical account of Indian science, as having been
+of seminal significance to the growth of modern science—the decimal
+place system with zero for numbers, trigonometric theory and methods,
+algebraic discoveries, surgical medical techniques, and a highly developed
+linguistic theory. Moreover, he also argues that the Indian atomic theories
+were far more sophisticated, complex, and subtle than any developed in
+the West until modern times. Surely it would also be reasonable to
+ask what positive role, if any, Indian religions could have played in these
+various scientific achievements rather than taking them as obstacles to
+the development of modern science. After all, these major achievements
+were made under conditions in which the Indian religions, and the
+philosophies associated with them, constituted dominant elements of the
+culture; and the decline of Indian science largely occurred in the modern
+period when India came under colonial rule.11 The failure to raise the
+question of the positive influence of Indian religions on science, and the
+emphasis on religion as the cause of decline of Indian science, itself sug-
+gests a lack of balance in Ronan’s cultural appraisal—an imbalance that
+12 THE DIALOGUE OF CIVILIZATIONS
+appears to project the modern warfare between science and religion onto
+classical India.
+Surprising as it might appear, and in spite of his own documentation of
+the important contributions made by Arabic science to medieval European
+science, Ronan ends his discussion of this tradition by proposing another
+negative diagnosis:
+Yet although the early Arabs and the whole Islamic world studied science
+and made notable contributions, their achievements came to an end; they
+never extended to modern science. Islam extols the value of revelation above
+all else: it is the supreme authority ... There then developed the attitude of
+passive acceptance. This attitude was inevitably inimical to independent
+scientific thinking, as intellectual traditionalism won the day. Islam never
+separated religion and science into watertight compartments as we do now,
+and the torch of science had to be carried on by others. (Ronan 1983, p. 240)
+There is no doubt that Arabic science did decline after a period of brilliant
+achievements. Many Arabic scholars and historians had assumed until
+quite recently that the glorious era of Arabic science lasted about five cen-
+turies—from about 750 CE to 1258 CE—until the Mongols destroyed
+Baghdad and put an end to the Abbasid Caliphate.12 However, there have
+been some attempts to revise such histories—it is now known that many
+seminal discoveries in mathematical astronomy were made in Iran in the
+thirteenth century by the Maragha School associated with the names of
+al-Tusi and al-Urdi, and that this astronomy reached its culmination in the
+work of al-Shatir in Damascus in the fourteenth century. Nevertheless, it
+is important to note, even if we ignore these later developments, that we
+are here concerned with a long period of scientific development—indeed
+a period longer than that which separates us from the publication of
+Copernicus’ seminal De Revolutionibus Orbium Coelestium in 1543. Over
+this extended epoch it was the religion of Islam that provided the umbrella
+under which the sciences and philosophy developed. It inspired Arabic
+scholars to be receptive to scientific traditions from all the different cul-
+tures with which they came in contact—the Greek, the Indian, the Persian,
+and the Chinese. 13 During this period, Islam functioned as a facilitating
+rather than an inhibitory factor on scientific progress. Hence, to see the
+religious inspiration that promoted and nourished Arabic science purely
+as an inhibitory factor is surely to take an excessively one-sided view of
+the influence of Islam on science. There is, however, no denying that the
+mystical turn in Islam that began to dominate Arabic culture after the
+collapse of the Abbasids did view scientific and philosophical thought with
+suspicion, but this cannot lead us to ignore the positive influence of
+WHY DID MODERN SCIENCE NOT DEVELOP IN CIVILIZATION X? 13
+religion over a period longer than the historical era of modern science.
+Moreover, as we will find later, these new theological interpretations that
+undermined the Arabic tradition of science nevertheless paved the way for
+the rise of modern science in Europe (largely by undermining the meta-
+physical foundations of Greek and Arabic rationalist approaches to natural
+philosophy).
+In his account Ronan seems to be adopting what can be described as an
+inverse-Merton thesis. 14 The sociologist Robert Merton had argued in the
+1930s that Puritan religious values had played a positive role in the devel-
+opment of early modern science. Although his thesis was originally con-
+fined to the context of Britain, it soon became extended more widely by
+his followers to account for the rise of science in Europe. In contrast to
+these neo-Mertonian attempts to explain the rise of science in Europe by
+invoking the presence of a certain complex of cultural and religious values,
+Ronan appears concerned with explaining the failure of science to emerge
+in other cultures by appeal to their distinctive cultural and religious values.
+In particular he invokes the negative impact that Confucian, Hindu, and
+Islamic values played in inhibiting the emergence of modern science in
+cultures otherwise as advanced, or more advanced, than Europe. The
+Mertonian positive valuation of the Puritan religious orientation is now
+transformed into a thesis regarding the inhibitory role of Confucian,
+Hindu, and Islamic ideals on scientific growth. Both approaches are linked
+by their common appeal to ethical or religious values, with one difference:
+Merton appeals to such values to explain why modern science emerged
+and grew in certain places in Europe, whereas Ronan appeals to them to
+explain why modern science did not emerge in other places. 15
+A distinctive one-sidedness moves Ronan’s overall approach. Although
+he acknowledges that there was scientific development in China, India,
+and the Arabic worlds when they were dominated by Confucian, Hindu,
+and Islamic ideals—indeed this is what his historical account of the sci-
+ences in these cultural areas describes—he nevertheless fails to consider the
+positive role these ideals may have played in the scientific achievements
+made there. Instead he concentrates on how these religious cultures
+obstructed the emergence of modern science. Thus, instead of looking at
+the way religious values promoted the emergence of the different structures
+of science in the Indian, Chinese, and Arabic cultural arenas—scientific
+traditions that he himself acknowledges made important contributions to
+modern science—he appears more concerned with how they inhibited
+modern science from developing there. Such an orientation can only be
+natural to someone who assumes that modern science is the only kind of
+universal science possible and that it would have developed in any culture
+provided there were no specific inhibitory factors precluding it. 16
+14 THE DIALOGUE OF CIVILIZATIONS
+Moreover, if Ronan had taken more seriously their contributions to
+modern science rather than their failure to reach it, he might have been led
+to a more positive valuation of their norms and institutions that made such
+contributions possible. This becomes evident when we consider his treat-
+ment of Greek cultural values and institutions. In this instance he is led to
+pay glowing tribute to the Greeks, despite their failure to create modern
+science, because of the seminal contributions they made to it. His focus
+here is not on why the Greeks failed to create modern science but on why
+they were able to make important contributions to it. If not for the differ-
+ent approach he takes, and the ensuing evaluation he makes of the role
+Greek science played in modern science—an emphasis on their success in
+contributing to it—he would have been led, given his general approach to
+the other traditions of science, into another attempt to explain the failure
+of modern science to emerge in the Greek world. This might even have
+ended with a listing of Hellenistic cultural impediments and deficits that
+led to this failure. However, given his positive valuation of the Greek role
+in modern science, this is not the route Ronan takes. Instead, he writes:
+With Ptolemy we come to the last of the great figures of Hellenistic science,
+and the end of an astonishing intellectual development that was Greek in
+origin. It started, as we have seen, with the philosophers who wished to make
+sense of the physical world in which they found themselves. They would not
+of course have called themselves scientists—the word is a nineteenth-century
+one—though they might have accepted the seventeenth-century name natu-
+ral philosopher, yet it was science that they practiced; not the mathematically
+oriented experimental science that we have today but science nevertheless,
+an attempt to rationalize the world of natural experience without recourse
+to divine intervention. This we have traced from Thales to its high devel-
+opment in Athens at the Lyceum and at the library and the museum in
+Alexandria. It marks the first great concerted effort of Western man to un-
+derstand the workings of Nature ... Today we can look back and see in it
+the foundations of the scientific ideal—the pursuit of science untrammeled
+by political or religious restriction—and the basis of our present scientific
+culture. (Ronan 1983, pp. 123–124)
+Ronan’s account of Greek science merits closer examination. First,
+although he admits that Greek science is not the mathematical empirical
+science we have today, he is nevertheless prepared to concede to the Greeks
+the achievement of having developed the foundations of modern science.
+Apparently, when it comes to the Greeks, science need not necessarily be
+reduced to modern science. The reason for this assessment seems to be that
+the Greeks pursued knowledge without confronting any political or religious
+restrictions and provided the basis for the later emergence of modern science.
+WHY DID MODERN SCIENCE NOT DEVELOP IN CIVILIZATION X? 15
+However, Ronan still leaves unexplained the failure of the Greeks to
+achieve modern science. There is scope here for a negative diagnosis of
+Greek culture that he conspicuously fails to take up. Instead he stresses
+the values and institutions that lead to the successful growth of Greek
+science—precisely the sort of explanation that he does not offer to account
+for the growth of Chinese, Arabic, or Indian sciences in their own phases
+of progressive development. The fact that Greek science, although differ-
+ent from modern science, contributed significantly to modern science is
+seen as grounds for a positive judgment of Greek cultural values—but the
+same courtesy is not extended to other traditions, although he acknowl-
+edges that they did contribute to modern science.
+Second, although Ronan acknowledges that the Greeks were more
+philosophers than scientists, he is prepared to call them scientists because
+their effort constituted “an attempt to rationalize the world of natural
+experience without recourse to divine intervention” (Ronan 1983, p. 123).
+If this is a reason for calling Greek natural philosophers scientists, then
+surely he should accord thinkers within Chinese civilization—especially
+Confucian thinkers—the same status. They, like the Greeks, developed an
+organic conception of the cosmos; like Plato and Aristotle, they also ex-
+plained phenomena in terms of five elements—earth, water, fire, wood,
+metal—in contrast to the Greek elements of earth, water, fire, air, and
+quintessence; like the Greeks, their medical traditions combined a five-
+element theory with the qualities hot, cold, wet, and dry.
+Moreover, the Chinese even went further in the direction of nonteleo-
+logical explanations, because unlike Plato, who believed the heavenly bod-
+ies to be Gods, or Aristotle, who perceived them as moved by intelligences,
+the Chinese saw them in completely naturalistic terms. Nor did they sep-
+arate heavenly and terrestrial phenomena by treating them as being obe-
+dient to different laws in the way the Greeks did; or take them to be made
+of a different sort of substance. 17 The same elements combined in the
+heavens as on earth. 18 This contrasts sharply with the Greek view that phe-
+nomena on earth were to be explained by the four elements earth, air, fire,
+and water, but those in the heavens were to be explained by the peculiar
+properties of the celestial element quintessence. 19 Surely if we are to use the
+criterion of “rationalizing the world of natural experience without recourse
+to divine intervention,” then the Chinese have a greater claim to being
+scientific than the Greeks. By contrast Plato, with his heaven filled
+with Gods, and Aristotle, with his notion of divine intelligences guiding
+heavenly motions, appear only as quasi-scientific thinkers. 20
+Why then does Ronan see Confucianism as an inhibiting factor that
+prevented the Chinese from developing modern science but nevertheless
+fail to perceive the quasi-animist views of Plato and Aristotle similarly?
+16 THE DIALOGUE OF CIVILIZATIONS
+The answer seems to be indicated in the very passage quoted earlier—
+Greek science contributed to the birth of modern science. Hence the
+Greeks, in spite of having an order of science different from that of mod-
+ern science, did possess those positive cultural values that promoted the
+birth of modern science. By contrast the Chinese—whose science is well
+known to Ronan since he specialized in the study of it—did not contribute
+to modern science in the same deep sense. It behooves us therefore, so
+Ronan seems to think, to examine the cultural factors that precluded the
+development of modern science in China. Such an account fails to value
+Chinese science positively because of its failure to make crucial contribu-
+tions to modern science, but it values Greek science precisely because it
+did. It is this ultimately Eurocentric bias in evaluating their contributions
+that leads Ronan to see Greek cultural values as positive and Confucian
+ones as negative with regard to science.
+Moreover, Ronan’s Eurocentric bias leads him not only to praise the
+Greeks for their contributions to modern science, and disparage trans-
+Western cultural values for obstructing the emergence of modern science,
+but also to dispute the claims by many ancient Greeks of their indebted-
+ness to scientific discoveries rooted in Mesopotamia and Egypt—especially
+the latter. He counters the prevalent Greek view that their mathematics
+began in Egypt:
+The Greeks claim to have received their mathematics from Egypt by way of
+Thales; Herodotus, Aristotle and his pupil Eudemos, who wrote a history of
+mathematics, all claim that Thales “after a visit to Egypt, brought this study
+to Greece.” Indeed, Eudemos goes so far as to specify what Thales brought,
+namely a number of propositions in theoretical geometry. Yet our present
+knowledge of Egyptian mathematics gives us no grounds for supposing that
+the Egyptians actually possessed any geometrical theory; theirs was a practi-
+cal rule-of-thumb geometry. But if Thales did not bring such geometry from
+Egypt did he, perhaps, devise it himself? Certainly geometry was that
+branch of mathematics at which the Greeks were to excel: their art shows
+the love of symmetry and elegant shapes but, though they were later to dis-
+play geometrical genius, there is no firm evidence that Thales began the
+process. Certainly he did some geometry, but it would all seem to have been
+of a practical kind—and that was just the kind of thing he could have
+brought from Egypt. Yet, of course, it was from such practical geometry
+that the whole theoretical structure was later to be developed. (Ronan 1983,
+p. 68)
+Ronan’s interpretation is extremely curious. He dismisses the Greek
+accounts of their debt to Egypt and yet gives no grounds for rejecting the
+authority of Herodotus and Aristotle except to say that their views cannot
+WHY DID MODERN SCIENCE NOT DEVELOP IN CIVILIZATION X? 17
+be substantiated on independent grounds. One is led to wonder what
+other grounds are needed. These thinkers are closer to the events being
+described than Ronan, who has no hesitation in claiming that the
+Egyptians could not have made the contributions they were said to have
+made. Instead Ronan offers the weak argument that the Greek talent for
+geometry came from their love of symmetry and elegant shapes in their art.
+On such grounds the Egyptians should display similar talent—their art
+and their monumental pyramid architectures display an equal love of sym-
+metry and elegance. His whole exercise of arbitrary dismissal without pre-
+senting any counterevidence to claims by dependable Greek writers seems
+solely designed to support his opinion that theoretical discourse in geom-
+etry first emerged with the Greeks, thereby preserving his Eurocentric con-
+ception of the history of modern science.
+There is a more charitable way of interpreting Ronan’s claim. He could
+be saying that Thales did not bring geometry from the Egyptians in the
+sense of a geometrical theory with associated theorems and proofs, but
+only what Eudemos calls a number of “propositions in theoretical geome-
+try”—parts of mere “practical rule-of-thumb geometry.” Why should this
+be grounds for saying that the Egyptians did not possess geometry or
+mathematics? They can easily be seen as the first seeds of theoretical geom-
+etry that became much more systematized by the Greeks. One cannot deny
+that the Greek achievement of casting geometry as a deductive system pro-
+vided a richer and more rigorous theoretical framework for the discipline,
+but could this discipline even have taken off without building on the cre-
+ative discoveries of the Egyptians that Ronan dismisses as mere practical
+rules of thumb? Indeed one could even argue that discovering an interest-
+ing theorem in geometry is far more difficult than proving it—the former
+involves a visionary experience that cannot be predicted in advance; the
+latter, a much more directed activity whose end goal is already predeter-
+mined. Even in the modern era the mathematician Ramanujan provides a
+classic example of one who made numerous discoveries in number theory
+that many lesser mathematicians spent decades proving. If Ramanujan’s
+achievement can be deemed mathematical, there is no reason not to extend
+the same courtesy to the ancient Egyptian thinkers who came up with the
+theorems of geometry that Thales carried to Greece.
+The logic of his position—namely that only Greece achieved theoreti-
+cal knowledge in mathematics and science even when it learned something
+from others—also leads Ronan to write off the significant contributions
+that Mesopotamian civilization made to the development of scientific
+thought. Thus, after writing admiringly “that the Sumerians and Babylonians
+made great advances in mathematics may be an understatement; they seem
+to have laid the very foundations of the entire subject” (Ronan 1983, p. 41),
+18 THE DIALOGUE OF CIVILIZATIONS
+he forgets his high praise when he finally comes to evaluate their achieve-
+ments:
+Yet for the most part the activities of these ancient astronomers and mathe-
+maticians eventually proved to be misdirected. Their work in observing and
+calculating the movements of the heavens was often astonishing, but much
+of it proved of little importance to the ultimate development of science. It
+was their failure to inquire more carefully into the nature of the heavenly
+bodies, and into the nature of the mechanisms that drove them across the
+sky, that led to this dead end. Nevertheless, the subtlety of their work is a fine
+tribute to the inspiration of animistic religion, and of the belief in the kind
+of magic that ascribes more importance to the relationships between phe-
+nomena than to the nature of the objects themselves. (Ronan 1983, p. 61)
+Ronan’s account of the history of science appears seriously muddled on
+this point. How can the achievements of the Sumerians and Babylonians,
+who, in his own words, “laid the very foundations” of mathematics, turn
+out, in his own words, to be of “little importance to the ultimate develop-
+ment of science”? There is a profound gap between the high praise given
+earlier in the text and the disparaging conclusion that follows. This conclu-
+sion appears solely designed to erect walls between the Greek and earlier
+traditions of science so as to preserve the Eurocentric history of modern
+science that informs his whole, otherwise rich, study. To admit that
+Sumerians and Babylonians could have laid the basis for mathematics is
+to open the door to a dialogical conception of science subversive of his
+Eurocentric paradigm of its history.21
+Ronan’s history of Chinese, Arabic, Indian, Egyptian, Mesopotamian,
+and other traditions of science concentrates too much on faithfully record-
+ing their achievements while at the same time marginalizing any signi-
+ficant appreciation of their impact on modern science. Non-European
+traditions of systematized knowledge of nature are acknowledged; but their
+influence, even when noted, is minimized. Ronan seems bent on showing
+that modern science developed in Europe because cultural obstacles pre-
+cluded it from developing elsewhere; and that though it received con-
+tributions from many cultures, only Greek culture carried those positive
+cultural values that made modern science possible.
+Consider Needham’s Grand Question “Why did science develop in
+Europe and not elsewhere?” in the light of Ronan’s approach to the history
+of science across civilizations. His Eurocentric response to this question
+recognizes the role of dialogue with Greek science that led to the birth and
+growth of modern science, but marginalizes the influence of other cultures
+as not crucial, even when he acknowledges them. It leads him to look for
+positive values in Europe that contributed to the rise of modern science
+WHY DID MODERN SCIENCE NOT DEVELOP IN CIVILIZATION X? 19
+and negative values in other cultures that obstructed it. Such Mertonian
+and inverse-Mertonian explanations of the rise of modern science, and its
+failure to emerge, can only be subverted by demonstrating the indispensa-
+ble role played by ideas from many cultures in the birth of modern
+science—especially in the success of the Copernican Revolution, which
+can be deemed to be the key event that led to modern science. This is pre-
+cisely what we shall set out to accomplish in the present study. However,
+before we undertake this task, it is illuminating to examine more closely
+the historical and epistemological presumptions that have informed many
+otherwise different Eurocentric histories of modern science.
